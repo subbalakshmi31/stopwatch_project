@@ -1,6 +1,6 @@
 # StopWatch_project
-This is a simple stopwatch app created using HTML, CSS and Vanilla JavaScript. It allows users to start, stop, and reset the timer.
-The link to the final hosted webpage is : https://subbalakshmiindukuri31.github.io/stopwatch_project/ 
+* This is a simple stopwatch app created using HTML, CSS and Vanilla JavaScript. It allows users to start, stop, and reset the timer.
+* The link to the final hosted webpage is : https://subbalakshmi31.github.io/stopwatch_project/
 
 
 # Features
